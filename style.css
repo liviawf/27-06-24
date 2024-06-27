@@ -1,0 +1,45 @@
+.cabeçalho1{
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 650px;
+    font-size: 40px;
+    color: #107300;
+}
+
+.imagem1{ 
+    display: block;
+    margin: auto;
+    height: 360px; 
+}
+.mercearia1{
+    color: #DC7516;
+}
+.itens{
+    color: #DC7516;
+}
+.açougue1{
+    color: #F119F5;
+}
+.itens2{
+    color: #F119F5;
+}
+.higienepessoal1{
+    color: #E73434;
+}
+.itens3{
+    color: #E73434;
+}
+.feira1{
+    color: #BECD12;
+}
+.itens4{
+    color: #BECD12;
+}
+.Produtosdelimpeza1{
+    color: #273DFF;
+}
+.itens5{
+    color: #273DFF;
+}
